@@ -1,0 +1,5 @@
+{
+	"ip":redhawkrGvi.aternos.me",
+	"port": "31216",
+	"name": "afkbot"
+}
